@@ -3,4 +3,4 @@
 
 # Screenshots #
 
-![Screenshot](https://s9.postimg.org/ve57tmgin/challenger-deep-xresources.png)
+![Screenshot](https://challenger-deep-theme.github.io/images/screenshots/xresources.png)
